@@ -1,6 +1,6 @@
 # Linux
 
-**sudo -i**
+**sudo -i** -->
 sudo -i starts a login shell as the root user.
 It behaves as if root has logged in directly, loading root’s environment variables, PATH, and profile settings.
 
