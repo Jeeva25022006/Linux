@@ -51,7 +51,7 @@ Forcefully terminates the process with the specified PID, without allowing it to
 top
 Displays a real-time, dynamic view of running processes, including CPU and memory usage.
 
-rm -rt
+rm -rf
 Removes directories and their contents recursively (-r) while prompting for confirmation before each removal (-t/interactive-like behavior depending on system tools).
 
 rmdir <directoryName>
